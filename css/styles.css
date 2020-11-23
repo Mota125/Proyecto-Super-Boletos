@@ -1,0 +1,92 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    background:linear-gradient(240deg,#4b3661,#793b5a,#664381,#793b5a,#4b3661);
+    font-family: 'Varela Round', sans-serif;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    
+
+  }
+  
+  
+  form img
+  {
+      width: 75px;
+      
+      
+
+  }
+  .form-register  {
+    width: 400px;
+    background:linear-gradient(240deg,#18bb7e,#1eba87,#007e51);
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: 4px;
+    font-family: 'Varela Round', sans-serif;
+    color: #000;
+    box-shadow: 7px 13px 20px #000;
+    border: 5px solid #2d745f;
+    
+  }
+  
+  .form-register h4 {
+    font-size: 22px;
+    margin-bottom: 20px;
+    font-family: 'Varela Round', sans-serif;
+  }
+  
+  .control {
+    width: 100%;
+    background:linear-gradient(240deg,#18bb7e,#1eba87);
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid  #2d745f;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 18px;
+    color: white;
+  }
+  
+  .form-register p {
+    height: 40px;
+    text-align: center;
+    font-size: 18px;
+    line-height: 40px;
+    color: #000;
+    font-family: 'Varela Round', sans-serif;
+  }
+  
+  .form-register a {
+    color: #000 ;
+    text-decoration: none;
+    font-family: 'Varela Round', sans-serif;
+  }
+  
+  .form-register a:hover {
+    color:white;
+    text-decoration: none;
+  }
+  
+  .form-register .boton {
+    width: 100%;
+    background:linear-gradient(240deg,#793b5a,#664381);
+    border: none;
+    border-radius: 15px;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+    font-family: 'Varela Round', sans-serif;
+  }
+  .form-register .boton:hover
+  {
+      
+      transform: translateY(+5px);
+  }
